@@ -1,5 +1,5 @@
 # Školské projekty 
-Vitajte v repozitári "Školské projekty"! Tento repozitár obsahuje školské projekty z predmetov odboru Lingvistika a Digital Humanities. Projekty slúžili najmä na výučbu nasledujúcich oblastí:
+Tento repozitár obsahuje školské projekty z predmetov odboru Lingvistika a Digital Humanities. Projekty slúžili najmä na výučbu nasledujúcich oblastí:
 
 - Programovanie
 - Štatistika
